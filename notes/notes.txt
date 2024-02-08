@@ -1,0 +1,6 @@
+1. floating calculation is not accurate, when calculate money, we use cent, so convert to integer to calculate.
+
+2. Falsy Values: false, 0, '', NaN, undefined, null.
+	Any value not on this list is truthy.
+	
+
